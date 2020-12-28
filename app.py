@@ -1,3 +1,3 @@
-import util.date_util
+import utils.date_util
 
-print(util.date_util.curr_date())
+print(utils.date_util.curr_date())

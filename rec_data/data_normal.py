@@ -44,3 +44,5 @@ if __name__ == '__main__':
     # data.z_score()
     data.decimal_scaling()
     data.print()
+    import utils.date_util as du
+    print(du.curr_date())
